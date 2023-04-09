@@ -1,0 +1,65 @@
+body {
+  background-color: #F8F8FF;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #FF7F50;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #4B0082;
+}
+
+nav ul li a:hover {
+  background-color: #8B008B;
+}
+
+main {
+  margin: 20px;
+}
+
+main h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+main p {
+  line-height: 1.5;
+}
+
+footer {
+  background-color: #FF7F50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer p {
+  font-size: 0.8em;
+}
+
+.simpsons-art {
+  display: block;
+  margin: 20px auto;
+  max-width: 500px;
+}
