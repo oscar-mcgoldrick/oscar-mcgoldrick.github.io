@@ -85,7 +85,10 @@ color: #3a24b8
 
 .intro h1 {
   font-size: 3rem;
-  margin-bottom: 2rem;
+  padding: 2rem;
+  margin: 1rem -1rem 0rem -1rem;
+  background-color: #b6abf4;
+  color: #fff;
 }
 
 .intro h2 {
