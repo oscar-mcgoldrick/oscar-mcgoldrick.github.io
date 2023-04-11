@@ -45,6 +45,36 @@ body {
   color: #333;
 }
 
+.sub-menu {
+  position: relative;
+  color: #ffffff;
+  padding-top: 4.5rem;
+  background-color: #b6abf4;
+  padding-left: 6rem;
+  }
+
+.sub-menu h1{
+  margin-top: 3rem;
+}
+
+.content h1{
+text-align: center;
+font-size: 2rem;
+margin: -.5rem;
+color: #3a24b8
+}
+
+.content{
+  margin-left: 12rem;
+  margin-right: 12rem;
+  
+}
+
+.content li{
+  margin:2em;
+  text-align: center;
+  font-size: 20px
+}
 /* Introduction section styles */
 
 .intro {
@@ -56,6 +86,11 @@ body {
 .intro h1 {
   font-size: 3rem;
   margin-bottom: 2rem;
+}
+
+.intro h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .intro p {
