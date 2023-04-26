@@ -109,6 +109,10 @@ font-family: "homer simpson revised", sans-serif;
   color: #fff;
   font-size: 30px;
 }
+
+.content div {
+  margin: 1rem;
+}
 /* Introduction section styles */
 
 .intro {
