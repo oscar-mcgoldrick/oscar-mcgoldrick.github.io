@@ -88,6 +88,16 @@ font-family: "homer simpson revised", sans-serif;
 -webkit-text-stroke: .2px #000
 }
 
+.content h2{ 
+  text-align: center;
+  font-size: 4vw;
+  color: #fff;
+  font-family: "homer simpson revised", sans-serif;
+  -webkit-text-stroke: .2px #000;
+  margin-top: 8rem;
+  
+}
+
 .content{
   margin-left: 12rem;
   margin-right: 12rem;
