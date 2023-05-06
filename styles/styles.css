@@ -101,7 +101,7 @@ font-family: "homer simpson revised", sans-serif;
 .content{
   margin-left: 12rem;
   margin-right: 12rem;
-  
+  font-size: 1.5vw;
 }
 
 .content li{
@@ -203,12 +203,18 @@ font-family: "homer simpson revised", sans-serif;
   
   .main-menu ul {
     flex-direction: column;
-    margin: 0;
+    margin: 0;   
   }
   
   .main-menu li {
     margin: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem;    
+  }
+
+  .sub-menu li{
+    text-align: right;
+    list-style-position: inside;
+    margin-right: 2rem;
   }
   
   .intro {
@@ -221,5 +227,9 @@ font-family: "homer simpson revised", sans-serif;
   
   .intro p {
     font-size: 1.25rem;
+  }
+
+  .content {
+    margin: 2rem;
   }
 }
